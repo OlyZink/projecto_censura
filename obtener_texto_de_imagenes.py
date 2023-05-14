@@ -9,7 +9,7 @@
 #Una vez hecho el login con el CLI, este código cogerá las credenciales y se
 # ejecutará él solito.
 
-# El texto completo aparece en el campo fullTextAnnotattion, en "text"
+# El texto completo aparece en el campo fullTextAnnotattion, en "text".
 
 import os
 from os import listdir
